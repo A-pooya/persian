@@ -4,6 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
+.txt
+.md
+/images
+manifest.json
+.ico
+package-lock.json
+package.json
+
 
 # testing
 /coverage
